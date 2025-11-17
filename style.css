@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: rgb(49, 48, 50);
+}
+
+canvas {
+  display: block;
+}
+
+input {
+  font-size: larger;
+  text-align: center;
+}
