@@ -1,6 +1,6 @@
 # SOP demo af model view projection
 
-### Link til github page
+### Link til demo
 
 [SOP-3D-demo](https://kahadev1.github.io/SOP-3D-demo/)
 
